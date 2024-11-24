@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 大风车Miner
+# BT-POOLMiner
 
 <h2>一款矿池级别的运维工具👍 </h2>
 
