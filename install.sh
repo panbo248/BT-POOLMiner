@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="4.1.5"
-DOWNLOAD_HOST="https://github.com/panbo248/BT-POOLMiner/blob/main/linux/"
+DOWNLOAD_HOST="https://github.com/panbo248/BT-POOLMiner/raw/main/linux/"
 ORIGIN_EXEC="btpool-${VERSION}"
 
 SERVICE_NAME="btpoolservice"
