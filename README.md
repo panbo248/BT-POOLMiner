@@ -102,7 +102,7 @@ BT-POOLMiner受香港法律监管。请注意，不同国家/地区的法律要�
    > 运行以下shell指令以运行工具包
    >
    > ```sh
-   >  bash <(curl -s -L https://github.com/panbo248/BT-POOLMiner/blob/main/install.sh)
+   >  bash <(curl -s -L https://github.com/panbo248/BT-POOLMiner/raw/main/install.sh)
    > ```
    >
    > 成功运行后，您将看到以下菜单。
