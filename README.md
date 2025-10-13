@@ -340,4 +340,4 @@ Fixed a serious BUG caused by disconnection reconnection mechanism
 ```   
 # Other issues
 
-此软件为BT-POOL专用代理工具，若将此软件用于BT-POOL节点，并在BT-POOL挖掘所支持的币种，除了矿池手续费（各大矿池都有手续费）外均无额外的抽水！若用于第三方矿池代理，则抽取所代理币种总算力的0.7%作为技术支持费用，望知悉!!
+此软件为BT-POOL专用代理工具，若将此软件用于BT-POOL节点，并在BT-POOL挖掘所支持的币种，除了矿池手续费（各大矿池都有手续费）外均无额外的抽水！若用于第三方矿池代理，则抽取所代理币种总算力的0.3%作为技术支持费用，望知悉!!
